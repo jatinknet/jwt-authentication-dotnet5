@@ -57,3 +57,4 @@ E:\Jatin work\JwtAuthentication\JwtAuthentication\obj\Debug\net5.0\JwtAuthentica
 E:\Jatin work\JwtAuthentication\JwtAuthentication\obj\Debug\net5.0\ref\JwtAuthentication.dll
 E:\Jatin work\JwtAuthentication\JwtAuthentication\obj\Debug\net5.0\JwtAuthentication.pdb
 E:\Jatin work\JwtAuthentication\JwtAuthentication\obj\Debug\net5.0\JwtAuthentication.genruntimeconfig.cache
+E:\Jatin work\JwtAuthentication\JwtAuthentication\obj\Debug\net5.0\JwtAuthentication.csproj.AssemblyReference.cache
